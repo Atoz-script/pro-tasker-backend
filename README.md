@@ -89,14 +89,9 @@ backend/
 
 Create a `.env` file in the root with:
 
-MONGODB_URI=your_mongodb_connection_string
-PORT=5000
-JWT_SECRET=your_jwt_secret_key
-CORS_ORIGIN=http://localhost:5173
+MONGO_URI=mongodb+srv://artisxwatson:darius101@appuser.zndrjkm.mongodb.net/protasker?retryWrites=true&w=majority&appName=appuser
+JWT_SECRET=c49ca01a683dbb9d945f722ca1aacef4890c9f38c19d523203916b6f94c1d102
 
-yaml
-Copy
-Edit
 
 ---
 
