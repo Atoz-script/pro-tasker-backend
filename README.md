@@ -1,8 +1,9 @@
 
 # 🛠️ Artis watson 
+(help by Yusuf,Reagan,David,Rico,Manasa,Menro)
 Welcome Pro-Tasker Backend 
 
-This is the **backend API** for **Pro-Tasker**, a full-stack project management app built using the **MERN stack**. It handles user authentication, project creation, task management, and secure access control.
+This is the **backend API** for **Pro-Tasker**, a full-stack project management app built using the **MERN stack**. It handles user authentication, project creation, task management, and secure access control. 
 
 ---
 
