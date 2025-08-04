@@ -40,9 +40,6 @@ backend/
 ├── .env
 ├── server.js
 
-yaml
-Copy
-Edit
 
 ---
 
