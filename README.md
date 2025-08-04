@@ -7,7 +7,7 @@ This is the **backend API** for **Pro-Tasker**, a full-stack project management 
 
 ---
 
-## 📁 Tech Stack
+## 📁 Tech Stack= The full set of technologies used to build and run a software application.
 
 - **Node.js**
 - **Express**
