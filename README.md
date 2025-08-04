@@ -1,5 +1,7 @@
 
 # 🛠️ Artis watson 
+Before anything else  I want to say that I originally had all my code well-prepared. But when it crashed or things like typos or broken routes caused issues, I restarted everything from scratch, which I now realize I shouldn’t have done. I ended up redoing the entire codebase over the weekend, and I did get some help along the way. This is where I’m at so far.
+
 (help by Yusuf,Reagan,David,Rico,Manasa,Menro)
 Welcome Pro-Tasker Backend 
 {made alot of repos}
